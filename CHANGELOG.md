@@ -13,6 +13,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Added `metadata` fields to `OrderLine` and `CheckoutLine` models - #10040 by @SzymJ
 - Improve checkout total base calculations - #10048 by @IKarbowiak
 - Improve click & collect and stock allocation - #10043 by @IKarbowiak
+- Allow values of different attributes to share the same slug - #10138 by @IKarbowiak
 
 #### Saleor Apps
 - Add webhooks `PAGE_TYPE_CREATED`, `PAGE_TYPE_UPDATED` and `PAGE_TYPE_DELETED` - #9859 by @SzymJ
